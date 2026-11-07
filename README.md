@@ -33,6 +33,9 @@ Name : CALWIN SAM B
 Register Number : 212225220018
 */
 
+```
+```py
+
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
